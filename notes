@@ -1,0 +1,14 @@
+this app basicall shows how to render data from the api data after a get request from express
+and rendr it using the effects and state hook
+we useeffect to control the after effwcts of making a poatrequest and the rerendering
+we use state to update the data
+we use nodemon so we dont have to keep restarting the server
+we use express to managae requset and responses to the seerver 
+this is helping the backend 
+when you do arrow with the parenthesis insidr the jsx psrt of a compoinenet we are renderung implicitly
+today we did git remote remove origin to change the origin because we already had it set up to anither repository
+s
+
+//basically
+
+-we got data from the backend and rendered it to the frontends
